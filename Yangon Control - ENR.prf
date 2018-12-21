@@ -1,0 +1,35 @@
+Settings	sector	\VYYF-Test_20181221103033-181301-0007.sct
+Settings	SettingsfileSYMBOLOGY	\VYYF\Settings\Symbology.txt
+Settings	SettingsfileVOICE	\VYYF\Settings\VoiceChannels.txt
+Settings	SettingsfilePROFILE	\VYYF\Settings\Profiles\CTR PROF.txt
+Settings	SettingsfileTAGS	\VYYF\Settings\Tag Definitions.txt
+Settings	ipaddr	\ipaddr.txt
+Settings	SettingsfileSIL	\VYYF\Settings\Lists ENR.txt
+Settings	SettingsfileSEL	\VYYF\Settings\Lists ENR.txt
+Settings	SettingsfileDEP	\VYYF\Settings\Lists ENR.txt
+Settings	SettingsfileARR	\VYYF\Settings\Lists ENR.txt
+Settings	SettingsfileFP	\VYYF\Settings\Lists ENR.txt
+Settings	Settingsfile	\VYYF\Settings\General.txt
+Settings	SettingsfilePLUGINS	\VYYF\Settings\Plugins.txt
+Settings	SettingsfileSCREEN	\VYYF\Settings\General.txt
+Settings	SettingsfileCONFLICT	\VYYF\Settings\Lists ENR.txt
+Settings	alias	\VYYF\Alias\alias.txt
+Settings	airlines	\VYYF\ICAO\ICAO_Airlines.txt
+Settings	airports	\VYYF\ICAO\ICAO_Airports.txt
+Settings	aircraft	\VYYF\ICAO\ICAO_Aircraft.txt
+Settings	airportcoords	\VYYF\NavData\icao.txt
+Settings	airways	\VYYF\NavData\airway.txt
+Plugins	Plugin0	\VYYF\Plugins\vSMR_1.3.3\vSMR.dll
+Plugins	Plugin0Display0	SMR radar display
+RecentFiles	Recent2	\VYYF\ASR\Hong Kong Aerodrome.asr
+LastSession	connecttype	3
+LastSession	callsign	VYYF_CTR
+LastSession	facility	6
+LastSession	rating	0
+LastSession	tovatsim	1
+LastSession	range	400
+LastSession	proxyserver	localhost
+LastSession	simdatapublish	0
+LastSession	atis2	Yangon Control
+RecentFiles	Recent1	\VYYF\ASR\ENR.asr
+LastSession	server	SweatBox

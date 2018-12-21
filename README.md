@@ -10,7 +10,7 @@ This repository also holds beta and current development MyanMar Sectors in the s
 
 *DISCLAIMER* AERONAV GNG IS NOT AFFILIATED WITH THIS DATABASE, SO COPIES OF THEIR DATA IS NOT SHARED ON THE "PUBLIC" BRANCH
 
-
+*NOTE* Final Product should be placed in Folder Called "VYYF - Yangon" in Documents/EuroScope
 
 ### MAIN DATA
 Current Status: Work In Progress
